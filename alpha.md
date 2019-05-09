@@ -4,7 +4,7 @@ Soubor alpha
 Lorem Ipsum je demonstrativní výplňový text používaný v tiskařském a
 knihařském průmyslu. Lorem Ipsum je považováno za standard v této
 oblasti už od začátku 16. století, kdy dnes neznámý tiskař vzal kusy
-textu a na jejich zkladě vytvořil speciální vzorovou knihu. Jeho odkaz
+textu a na jejich základě vytvořil speciální vzorovou knihu. Jeho odkaz
 nevydržel pouze pět století, ale přežil i nástup elektronické sazby
 v podstatě beze změny. Nejvíce popularizováno bylo Lorem Ipsum
 v šedesátých letech 20. století, kdy byly vydávány speciální vzorníky
@@ -18,3 +18,5 @@ nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
 reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
 pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
 culpa qui officia deserunt mollit anim id est laborum.
+
+Fabula narrat: In libris Homeri, poetae clari Graecorum, scribitur legimusque: "Cum magistro Horky in schola discimus."
