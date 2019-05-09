@@ -144,6 +144,8 @@ consequat gravida, enim nulla pretium diam, eget accumsan
 nisl est at odio. Nunc maximus porta lacinia. Phasellus 
 pretium elit vel dictum volutpat.
 
+Linguam programmationis cum magistro Horky in schola discimus. Magister amamus.
+
 Quisque vehicula nisl rhoncus rutrum ultrices. Donec 
 finibus justo vitae nunc feugiat, eu sagittis risus 
 rhoncus. Donec ante tellus, sodales a erat ut, interdum 
