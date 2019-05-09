@@ -1,6 +1,7 @@
 Soubor zulu
 ===========
 
+Více o původu tohoto souboru se můžete dozvědět v souboru alpha.md
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Phasellus suscipit condimentum sem vel malesuada. Nulla 
